@@ -5,4 +5,4 @@ Inputs: flowrates of raw materials and products, utility usage, operating credit
 Outputs: annual credits, revenue, raw materials, equipment annuity, utilities, waste treatment, potential profit
 Financial outputs: net present value, non-discounted cash flow, and discounted cash flow
 
-Still a work in progress!!!# Capcost
+Still a work in progress!!!
